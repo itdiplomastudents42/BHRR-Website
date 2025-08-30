@@ -1,2 +1,2 @@
 # BHRR-Website
-Collaborative effort by the IT Diploma students of Swinburne Technical College Melbourne
+<h1> This is the working branch, all features will be pushed to this branch, and then checked over by the team, before being pushed to "Development" branch </h1>
