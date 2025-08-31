@@ -73,4 +73,12 @@ This would lead to a general “finances” page, which would include:
 
 <h2>CONTACT US</h2>
 
+"And we need a Contact Us item at the top of the menu, replacing “Get Involved”."
+
+<ul>- 1. Get involved as a volunteer: have a volunteer form</ul>
+<ul>- 2. General email enquiries</ul>
+<ul>- 3. Book Cath and Jennie as event speakers (unclear if the client would like some sort of submission form here as well)</ul>
+
 <h2>LEGAL (hidden?)</h2>
+
+This is for Zach to work out for us. 
