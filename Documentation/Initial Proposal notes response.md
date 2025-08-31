@@ -34,7 +34,8 @@ We think more in terms of **Grow BHRR Reach**. Create a website that effectively
 
 8. (In relation to evaluation) - How is this assessed? What are the predifined KPI's? Is the final report something we get to see, or is it internal?
 
-9. 
+9. IMPORTANT: It can be hard to tell but it does seem like the client isn't satisfied with the layout of the "About page" wireframe. It's worth having a look at this. 
+<h4> Text from document: "Is the picture accompanying this (“Coming up to one decade”) how you see the layout? Or is this just a placeholder?" </h4>
 
 <h3> Page Specific Notes and Questions </h3>
 
@@ -64,6 +65,8 @@ Some notes:
 "Impact – drop downs to testimonials? Links build to local community organisationS. Potential to change these over time."
 
 "Praise – would see this down at the bottom of the page, like an “Our Friends” which would include Swinburne, Boroondara Council, North Balwyn Rotary, PALM, Bunnings?"
+
+IMPORTANT: It can be hard to tell but it does seem like the client isn't satisfied with the layout of the "About page" wireframe. It's worth having a look at this. 
 
 <h3> Our Community: </h3>
 
