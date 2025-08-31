@@ -5,6 +5,7 @@ Each of the following headers denotes a page on the website. The components of t
 Underneath each header is the proposed Menu Bar drop-down options when you hover-over/click-on a particular header item. (I'm not sure if this is what they mean in the notes document when they mention "drop-downs", so I am just covering our bases).
 
 <h2>HOME</h2>
+
 <ul>- 1. Call To Action (CTA) at the top. Example text: "Let's flip the conversation from waste to resources </ul>
 <ul>- 2. What we do: brief overview.</ul>
 <ul>- 3. Headline metric strip of weight statistics.
@@ -28,6 +29,7 @@ The client would like to try a dynamic strip that moves across the page for the 
 <h4> Menu bar drop-down proposals: Events(link to FB events page->);  </h4>
 
 The details are a bit hazy on the order/layout, but the following are components to include on the page.
+
 <ul>- 1. Organisations that BHRR supports (Community impact)</ul>
 <ul>- 2. Rehomie makers/creatives (Community creatives)</ul>
 <ul>- 3. Testimonials (pending): From document: "We’d keep media mentions to one place. But this could include testimonials.  Would these link to any testimonials on the About page?"</ul>
@@ -38,6 +40,12 @@ The details are a bit hazy on the order/layout, but the following are components
 </ul>
 
 <h2>RESOURCES</h2>
+
+Again, the details are a bit more murky for this page, though we do have a general concept.
+
+<ul>- 1. BHRRs A-Z Rehoming Guide</ul>
+<ul>- 2. Links to useful Council information</ul>
+<ul>- 3. FAQs: eg. Where do I take...; I have to clear a deceased estate- where do I start...; etc.</ul>
 
 <h2>NEWS</h2>
 
