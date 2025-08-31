@@ -49,6 +49,18 @@ Again, the details are a bit more murky for this page, though we do have a gener
 
 <h2>NEWS</h2>
 
+<ul>- 1. Hero Section, showcase a few articles. Main focus is the latest article..
+The article card should include:
+  <ul>- a. A preview banner image</ul>
+  <ul>- b. Title</ul>
+  <ul>- c. Location</ul>
+  <ul>- d. Date and time</ul>
+Past events should have a clear indicator that it has passed.
+  
+Filters like “sort by”, “latest”, “oldest”, etc</ul>
+<ul>- 2. Option C: Hybrid approach, intergrate FB posts & provide CMS article creation</ul>
+To note: For the hybrid approach, the clients would also like to be able to embed recent news articles that aren't shared on Facebook.
+
 <h2>DONATE</h2>
 
 <h2>CONTACT US</h2>
