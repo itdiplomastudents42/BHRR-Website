@@ -2,6 +2,8 @@
 
 Each of the following headers denotes a page on the website. The components of the page are ordered according to the feedback specification - going from top of page downward. 
 
+Underneath each header is the proposed Menu Bar drop-down options when you hover-over/click-on a particular header item. (I'm not sure if this is what they mean in the notes document when they mention "drop-downs", so I am just covering our bases).
+
 <h2>HOME</h2>
 <ul>- 1. Call To Action (CTA) at the top. Example text: "Let's flip the conversation from waste to resources </ul>
 <ul>- 2. What we do: brief overview.</ul>
@@ -14,6 +16,8 @@ The client would like to try a dynamic strip that moves across the page for the 
 
 
 <h2>ABOUT/OUR STORY</h2>
+<h4> Menu bar drop-down proposals: Testimonials;  </h4>
+
 <ul>- 1. Story/history: how we began etc.</ul>
 <ul>- 2. Mission/mission statement</ul>
 <ul>- 3. Co-founders photos</ul>
@@ -21,6 +25,17 @@ The client would like to try a dynamic strip that moves across the page for the 
 <ul>- 5. Praise section: From document: "would see this down at the bottom of the page, like an “Our Friends” which would include Swinburne, Boroondara Council, North Balwyn Rotary, PALM, Bunnings?"</ul>
 
 <h2>COMMUNITY (inc.EVENTS)</h2>
+<h4> Menu bar drop-down proposals: Events(link to FB events page->);  </h4>
+
+The details are a bit hazy on the order/layout, but the following are components to include on the page.
+<ul>- 1. Organisations that BHRR supports (Community impact)</ul>
+<ul>- 2. Rehomie makers/creatives (Community creatives)</ul>
+<ul>- 3. Testimonials (pending): From document: "We’d keep media mentions to one place. But this could include testimonials.  Would these link to any testimonials on the About page?"</ul>
+<ul>- 4. Drop-down menu to cover Events: 
+  <ul>- a. Link to FB events page (if not in menu bar drop-down)</ul>
+  <ul>- b. Events we're invited to (eg. Council events)</ul>
+  <ul>- c. BHRRs own events (eg. The Spring Community Market)</ul>
+</ul>
 
 <h2>RESOURCES</h2>
 
