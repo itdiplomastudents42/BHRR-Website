@@ -1,12 +1,13 @@
 <h2> Pre-Sep/01-Meeting </h2>
 
 <h3> Summary: </h3>
-We require a dynamic website to be a complementary landing point, rather than a primary landing point. We already have a significant point of contact with the FB Rehomie community (through the FB group function).
+"We require a dynamic website to be a complementary landing point, rather than a primary landing point. We already have a significant point of contact with the FB Rehomie community (through the FB group function)."
 
 <h3> Objectives: </h3>
 <h4> Increase Engagement </h4>
-Think of it more as **broadening** engagement, rather than _increasing_ engagement. Facebook is "transactional". The website will be more educational and informative. 
-We’re not doing it to build “likes”.
+"Think of it more as **broadening** engagement, rather than _increasing_ engagement."
+"Facebook is "transactional". The website will be more educational and informative." 
+"We’re not doing it to build “likes”."
 
 <h4> Grow Client Base </h4>
 We think more in terms of **Grow BHRR Reach**. Create a website that effectively showcases BHRR’s services (which includes education, information, referrals, volunteer opportunities).
@@ -35,25 +36,48 @@ We think more in terms of **Grow BHRR Reach**. Create a website that effectively
 
 9. 
 
-<h3> Page Style Questions Postured </h3>
+<h3> Page Specific Notes and Questions </h3>
 
-<h4> Home: </h4>
+IMPORTANT: 
 
+**Check the "Page Outlines" document for the new guidenlines.**
 
-<h4> Our Story (rather than "About"): </h4>
+<h3> Home: </h4>
+I assume that this will just be the logo as a hyperlink, can ask about it.
 
+Community highlight – maybe not as a separate item on the home page as time sensitive. But we could perhaps have something which includes it. We’ll think about this before Monday!
 
-<h4> Our Community: </h4>
+Some questions from clients about style here: 
 
+"Headline metric strip of weight statistics – is there a way to easily update this as we go?
 
-<h4> Events: </h4>
+Dynamic strip, moving across the page? (Or would this be distracting? Let’s try.)
+
+If Contact is across the top (Get involved/Contact), no need to include as a separate point on the home page?
+"
+
+**"Partner with us also seems to fit better on the Contact page."**
+
+<h3> Our Story (rather than "About"): </h3>
+Some notes:
+
+"Impact – drop downs to testimonials? Links build to local community organisationS. Potential to change these over time."
+
+"Praise – would see this down at the bottom of the page, like an “Our Friends” which would include Swinburne, Boroondara Council, North Balwyn Rotary, PALM, Bunnings?"
+
+<h3> Our Community: </h3>
+
+"This would include organisations that BHRR supports (Community impact), as well as (Community creatives) Rehomie makers/creatives. 
+We’d keep media mentions to one place. But this could include testimonials."
+
+**"Would these link to any testimonials on the About page?"**
+
+<h3> Events: (To be rolled into "Community") </h3>
 **IMPORTANT**: "Roll this into the Community section. We’re not involved in enough for it to warrant it’s own heading in the menu bar. Also, they’re very community based and the nature of events means they’re dynamic and people aren’t going to a website to look for events. That where FB shines – the relevant drop down menu could also include a link the BHRR’s FB Event’s page. This would then highlight events we’re invited to (eg. Council events) as well as BHRR’s own events (eg. The Spring Community Market).
 
 Instead of having **Events**, have a **RESOURCES** tab."
 
-<h4> Resources: </h4>
-
-(Not a question, but important to note for reference)
+<h3> Resources: (New inclusion)</h3>
 "Things that we’d include in this would be:
    <ul> • BHRR’s A-Z Rehoming Guide </ul>
    <ul> • Links to useful Council information </ul>
@@ -62,15 +86,43 @@ Instead of having **Events**, have a **RESOURCES** tab."
 Editors note:
   Something to note is the multiple mentions of "clearing a deceased estate"; this topic is clearly important to the clients and may hold some value or history beyond BHRR. We should be approaching our conversations regarding this with the uptmost respect and sincerity. (No funny business)
 
-<h4> Donate: </h4>
+<h3> News: </h3>
+"Hybrid approach might be best"
+
+IMPORTANT: **"Can you please explain this a bit more when we see you?"**
+"We'd want to be able to embed recent news articles which aren't necessarily shared on Facebook"
+
+<h3> Donate: </h3>
 "We also need a **Donate** menu item at the top. This would lead to a general “finances” page, which would include:"
    <ul> • A “donate” button (with a brief explanation of what the donation will help with) </ul>
    <ul> • Link to Das Tshirt Automat and our merch </ul>
    <ul> • Link to CDS – donate bottles and cans </ul>
    <ul> • Hire our equipment (clothes racks, coat hangers and bunting. Would need a drop down menu which would show photos of the equipment and the hire cost. </ul> 
 
+<h3> Contact Us: </h3>
+"And we need a **Contact Us** item at the top of the menu, **replacing “Get Involved”**."
+This would be the point at which people can contact us to:
+    <ul> • Get involved as a volunteer – have the form </ul>
+    <ul> • General email inquiries </ul>
+    <ul> • Book Cath and Jennie as event speakers </ul>
 
-<h4> Home: </h4>
+<h3> Legal: </h3>
+"We’d rather describe this as Privacy, and have it down the bottom, as with a lot of other websites. We’ll work on the content."
+
+**Zach, you wanted to talk to them about this, and I don't know enough to make a reasonable assumption either way (and frankly do not have the time today to research lmao).**
+
+(FROM THE ORIGINAL RESPONSE DOCUMENT):
+
+"Proposed menu bar:
+
+
+ABOUT      COMMUNITY      RESOURCES       NEWS        DONATE        CONTACT US"
+
+Editors note:
+I do believe that they asked specifically for "About" to be "Our story". 
+
+TLDR:
+"Events" is getting rolled into "community", there's now a "resources tab", and a "donate"; they don't want a "legal" tab in the menu bar, and want "contact" us to replace "get involved".
 
 
 
