@@ -14,6 +14,11 @@ The client would like to try a dynamic strip that moves across the page for the 
 
 
 <h2>ABOUT/OUR STORY</h2>
+<ul>- 1. Story/history: how we began etc.</ul>
+<ul>- 2. Mission/mission statement</ul>
+<ul>- 3. Co-founders photos</ul>
+<ul>- 4. Impact: From document: "drop downs to testimonials? Links build to local community organisations. Potential to change these over time."</ul>
+<ul>- 5. Praise section: From document: "would see this down at the bottom of the page, like an “Our Friends” which would include Swinburne, Boroondara Council, North Balwyn Rotary, PALM, Bunnings?"</ul>
 
 <h2>COMMUNITY (inc.EVENTS)</h2>
 
