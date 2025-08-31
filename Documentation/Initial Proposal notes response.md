@@ -35,6 +35,45 @@ We think more in terms of **Grow BHRR Reach**. Create a website that effectively
 
 9. 
 
+<h3> Page Style Questions Postured </h3>
+
+<h4> Home: </h4>
+
+
+<h4> Our Story (rather than "About"): </h4>
+
+
+<h4> Our Community: </h4>
+
+
+<h4> Events: </h4>
+**IMPORTANT**: "Roll this into the Community section. We’re not involved in enough for it to warrant it’s own heading in the menu bar. Also, they’re very community based and the nature of events means they’re dynamic and people aren’t going to a website to look for events. That where FB shines – the relevant drop down menu could also include a link the BHRR’s FB Event’s page. This would then highlight events we’re invited to (eg. Council events) as well as BHRR’s own events (eg. The Spring Community Market).
+
+Instead of having **Events**, have a **RESOURCES** tab."
+
+<h4> Resources: </h4>
+
+(Not a question, but important to note for reference)
+"Things that we’d include in this would be:
+   <ul> • BHRR’s A-Z Rehoming Guide </ul>
+   <ul> • Links to useful Council information </ul>
+   <ul> • FAQs – eg. Where do I take….; I have to clear a deceased estate – where do I start…" </ul>
+
+Editors note:
+  Something to note is the multiple mentions of "clearing a deceased estate"; this topic is clearly important to the clients and may hold some value or history beyond BHRR. We should be approaching our conversations regarding this with the uptmost respect and sincerity. (No funny business)
+
+<h4> Donate: </h4>
+"We also need a **Donate** menu item at the top. This would lead to a general “finances” page, which would include:"
+   <ul> • A “donate” button (with a brief explanation of what the donation will help with) </ul>
+   <ul> • Link to Das Tshirt Automat and our merch </ul>
+   <ul> • Link to CDS – donate bottles and cans </ul>
+   <ul> • Hire our equipment (clothes racks, coat hangers and bunting. Would need a drop down menu which would show photos of the equipment and the hire cost. </ul> 
+
+
+<h4> Home: </h4>
+
+
+
 
 
 
