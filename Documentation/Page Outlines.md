@@ -63,6 +63,14 @@ To note: For the hybrid approach, the clients would also like to be able to embe
 
 <h2>DONATE</h2>
 
+This would lead to a general “finances” page, which would include:
+<ul>- 1. A “donate” button (with a brief explanation of what the donation will help with)</ul>
+<ul>- 2. Link to Das Tshirt Automat and our merch</ul>
+<ul>- 3. Link to CDS – donate bottles and cans</ul>
+<ul>- 4. Hire our equipment (clothes racks, coat hangers and bunting.
+  
+  Would need a drop-down menu which would show photos of the equipment and the hire cost.</ul>
+
 <h2>CONTACT US</h2>
 
 <h2>LEGAL (hidden?)</h2>
