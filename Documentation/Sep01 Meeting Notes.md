@@ -27,22 +27,25 @@
     <ul>Is it worth doing??</ul>
 
 <h3>Page specific:</h3>
-
+<ul>
   <h4>News section:</h4>
     <ul>Articles instead of News in the header button??</ul>
     <ul>Post-able blog style content </ul>
     <ul>Blog style updates?</ul>
     <ul>Headers to outside articles??</ul>
     <ul>News page is outsourced </ul>
-
+</ul>
+<ul>
   <h4>Newsletter:</h4>
     <ul>database email addresses to update</ul>
     <ul>for when we are holding/participating in an event, to update</ul>
-
+</ul>
+<ul>
   <h4>Community section:</h4>
     <ul>Rotating highlighted artist thingy</ul>
     <ul>Instead of Our Community have Our Rehomie Community </ul>
-
+</ul>
+<ul>
   <h4>Resources:</h4>
     <ul>search bar for specific item, brings up a-z component. </ul>
     <ul>A-Z Implementation; check the repair guide, requested to send to us.</ul>
@@ -55,7 +58,7 @@
     <ul>Can link back into A-Z guide</ul>
     <ul>On page search bar, for if you can't find what you need.</ul>
     <ul>Maybe less FAQ questions??</ul>
-
+</ul>
 
 
 
